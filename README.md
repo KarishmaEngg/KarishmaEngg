@@ -1,15 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&duration=3000&color=FFEB3B&center=true&width=800&lines=Hii+👋;I+am+Kamini+Singh;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&duration=3000&color=FFEB3B&center=true&width=800&lines=Hii+👋;I+am+Karishma+Singh;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
 </p>
-
-
-
-
-
-
 <p align="center">
-  <a href="mailto:kamini14112004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/kamini-singh-8a914k11/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:karishmasingh58638@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](www.linkedin.com/in/karishma-singh-817580279/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <!-- <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox"></a> -->
 </p>
 
