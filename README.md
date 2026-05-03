@@ -52,9 +52,13 @@
 ---
 
 ### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/karishma-singh-817580279/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Karishma Singh" height="30" width="40" />
-  <a href="https://www.instagram.com/_karishmasingh_1/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Karishma Singh" height="30" width="40" /></a></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/karishma-singh-817580279/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/_karishmasingh_1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
 
 ---
