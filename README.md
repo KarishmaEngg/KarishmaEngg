@@ -1,36 +1,67 @@
-# Hi there! I'm Karishma Singh 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Karishma%20Singh&fontSize=80&animation=fadeIn" />
+</div>
 
-### 🚀 Full-Stack Web Developer | MERN & Next.js Enthusiast
-Final-year Computer Science Engineering student passionate about building scalable web applications and solving complex problems with code.
+<div align="center">
+  
+  # 👋 Hi, I'm Karishma Singh
+  ### 🚀 Final Year B.Tech CSE Student | Full-Stack Developer
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Next.js+Enthusiast;Building+Scalable+Solutions;Open+Source+Contributor)](https://git.io/typing-svg)
 
----
-
-### 🛠️ Tech Stack
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+</div>
 
 ---
 
-### 🌟 Featured Projects
-
-* **Essential Mart:** A modern e-commerce clothing store built with PostgreSQL and Prisma.
-* **Alhawat Store:** A high-performance web application focused on seamless user experience.
-* **PS Decor:** A professional event decor platform featuring dynamic blog management.
-* **Salary Prediction System:** Machine learning project using Ensemble Learning and Streamlit.
+### 💫 About Me
+- 🎓 Final Year **B.Tech (CSE)** student at Dr. APJ Abdul Kalam Technical University.
+- 💻 Specialized in **Full-Stack Web Development** (MERN & Next.js).
+- 🏆 Awarded **Academic Excellence** for two consecutive years.
+- 🛠️ Currently building **Essential Mart** and specialized stores.
+- 📫 How to reach me: **karishma.engg@email.com**
 
 ---
 
-### 📊 My GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=KarishmaEngg&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KarishmaEngg&theme=radical" alt="GitHub Streak" height="150" />
+### 🛠️ Tech Stack & Tools
+
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) |
+
+---
+
+### 📂 Top Projects
+- 🛍️ **Essential Mart**: A full-stack clothing store with PostgreSQL & Render deployment.
+- 🎨 **PS Decor**: Web platform for event decor business with dynamic blog system.
+- 🏪 **Alhawat Store**: High-performance modern web application.
+- 📊 **Salary Predictor**: ML project using Ensemble Learning & Streamlit.
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KarishmaEngg&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarishmaEngg&theme=tokyonight" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarishmaEngg&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
 </p>
 
 ---
 
-### 📫 Connect with me:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/your-profile-link)
+### 🌐 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Karishma Singh" height="30" width="40" /></a>
+<a href="https://twitter.com/your-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Karishma Singh" height="30" width="40" /></a>
+<a href="https://instagram.com/your-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Karishma Singh" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KarishmaEngg&color=blue" alt="Profile Views" />
+</p>
