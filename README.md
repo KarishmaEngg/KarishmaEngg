@@ -16,9 +16,9 @@
 ### 💫 About Me
 - 🎓 Final Year **B.Tech (CSE)** student at Dr. APJ Abdul Kalam Technical University.
 - 💻 Specialized in **Full-Stack Web Development** (MERN & Next.js).
-- 🏆 Awarded **Academic Excellence** for two consecutive years.
+- 🏆 Awarded **Academic Excellence** for three consecutive years.
 - 🛠️ Currently building **Essential Mart** and specialized stores.
-- 📫 How to reach me: **karishma.engg@email.com**
+- 📫 How to reach me: **karishmasingh58638@gmail.com**
 
 ---
 
@@ -29,15 +29,15 @@
 | **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
 | **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) |
 
 ---
 
 ### 📂 Top Projects
-- 🛍️ **Essential Mart**: A full-stack clothing store with PostgreSQL & Render deployment.
 - 🎨 **PS Decor**: Web platform for event decor business with dynamic blog system.
 - 🏪 **Alhawat Store**: High-performance modern web application.
 - 📊 **Salary Predictor**: ML project using Ensemble Learning & Streamlit.
+- 🛍️ **Essential Mart**: A full-stack clothing store with PostgreSQL & Render deployment.
 
 ---
 
@@ -55,7 +55,7 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Karishma Singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karishma-singh-817580279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Karishma Singh" height="30" width="40" /></a>
 <a href="https://twitter.com/your-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Karishma Singh" height="30" width="40" /></a>
 <a href="https://instagram.com/your-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Karishma Singh" height="30" width="40" /></a>
 </p>
