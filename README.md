@@ -43,10 +43,7 @@
 ---
 
 ### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarishmaEngg&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarishmaEngg&layout=compact&theme=tokyonight" alt="Top Langs" width="45%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarishmaEngg&theme=tokyonight" alt="GitHub Streak" width="94%" />
@@ -55,9 +52,9 @@
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/karishma-singh-817580279/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Karishma Singh" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/_karishmasingh_1/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Karishma Singh" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/karishma-singh-817580279/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Karishma Singh" height="30" width="40" />
+  <a href="https://www.instagram.com/_karishmasingh_1/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Karishma Singh" height="30" width="40" /></a></a>
 </p>
 
 ---
